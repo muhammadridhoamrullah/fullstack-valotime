@@ -1,0 +1,20 @@
+[
+  {
+    "email": "ridhoamrullah@gmail.com",
+    "password": "1234567890",
+    "username": "ridhoamrullah",
+    "fullName": "Muhammad Ridho Amrullah"
+  },
+  {
+    "email": "user1@mail.com",
+    "password": "user1",
+    "username": "user1",
+    "fullName": "User One"
+  },
+  {
+    "email": "user2@mail.com",
+    "password": "user2",
+    "username": "user2",
+    "fullName": "User Two"
+  }
+]
